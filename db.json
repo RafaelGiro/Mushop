@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "type": "dish",
+      "picture": "https://i.imgur.com/IUEtyzf.jpg",
+      "name": "Mushmix",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 20,
+      "gluten": false,
+      "calories": 300,
+      "weight": "250g"
+    },
+    {
+      "type": "dish",
+      "picture": "https://i.imgur.com/tewKiOw.jpg",
+      "name": "Mushcroc",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 22.5,
+      "gluten": true,
+      "calories": 450,
+      "weight": "275g"
+    },
+    {
+      "type": "dish",
+      "picture": "https://i.imgur.com/Q3py6J2.jpg",
+      "name": "Mushpasta",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 27,
+      "gluten": true,
+      "calories": 600,
+      "weight": "300g"
+    },
+    {
+      "type": "salad",
+      "picture": "https://i.imgur.com/gGXOo2f.jpg",
+      "name": "Mushforage",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 27,
+      "gluten": false,
+      "calories": 250,
+      "weight": "175g"
+    },
+    {
+      "type": "salad",
+      "picture": "https://i.imgur.com/6P98qID.jpg",
+      "name": "Mushtraditional",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 22,
+      "gluten": false,
+      "calories": 315,
+      "weight": "200g"
+    },
+    {
+      "type": "burger",
+      "picture": "https://i.imgur.com/voBdI0M.jpg",
+      "name": "Mushmeatball",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 32,
+      "gluten": true,
+      "calories": 700,
+      "weight": "350g"
+    },
+    {
+      "type": "burger",
+      "picture": "https://i.imgur.com/C9Wqy4L.jpg",
+      "name": "Mushburger",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 30,
+      "gluten": true,
+      "calories": 720,
+      "weight": "400g"
+    },
+    {
+      "type": "burger",
+      "picture": "https://i.imgur.com/BSPJvDY.jpg",
+      "name": "Mushdouble",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque ornare nunc sed velit ornare pulvinar. Nunc aliquam odio magna, tincidunt dictum leo elementum sit amet. Integer nec velit in sapien sagittis lobortis in nec leo.",
+      "price": 38,
+      "gluten": true,
+      "calories": 1010,
+      "weight": "500g"
+    }
+  ]
+}
